@@ -80,7 +80,7 @@ body{
 .background{
     height: 100%;
     width: 100%;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.73)),url(/assets/images/5-1200x500.jpg) ;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.73)),url(./assets/images/5-1200x500.jpg) ;
     background-size: cover; 
     background-repeat: no-repeat;
     background-attachment: fixed;   
